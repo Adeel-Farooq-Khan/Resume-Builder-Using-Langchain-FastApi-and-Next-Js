@@ -67,7 +67,7 @@ project/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/farukh-javed/AI-Career-Assistant-with-Nextjs-FastAPI.git
+   git clone https://github.com/Adeel-Farooq-Khan/Resume-Builder-Using-Langchain-FastApi-and-Next-Js.git
    ```
 
 2. **Backend Setup**:
@@ -146,12 +146,3 @@ project/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas to make the project better, please feel free to fork the repository and make a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for more details.
